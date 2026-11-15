@@ -1,0 +1,160 @@
+Rollout_0   maze
+Mean reward: 0.00 +- 0.00
+Median reward: 0.00
+Min reward: 0.00
+Max reward: 0.00
+Std reward: 0.00
+------
+
+Rollout_40   maze
+Mean reward: 0.20 +- 0.39
+Median reward: 0.00
+Min reward: 0.00
+Max reward: 0.99
+Std reward: 0.39
+------
+
+MCTS_10   maze
+Mean reward: 0.30 +- 0.45
+Median reward: 0.00
+Min reward: 0.00
+Max reward: 0.99
+Std reward: 0.45
+------
+
+MCTS_50   maze
+Mean reward: 0.94 +- 0.21
+Median reward: 0.99
+Min reward: 0.00
+Max reward: 0.99
+Std reward: 0.21
+------
+
+DeterminizedAStar   maze
+Mean reward: 0.29 +- 0.45
+Median reward: 0.00
+Min reward: 0.00
+Max reward: 0.99
+Std reward: 0.45
+------
+
+Rollout_0   just_wait
+Mean reward: 0.27 +- 0.92
+Median reward: 0.93
+Min reward: -1.00
+Max reward: 0.97
+Std reward: 0.92
+------
+
+Rollout_40   just_wait
+Mean reward: 0.77 +- 0.58
+Median reward: 0.97
+Min reward: -0.97
+Max reward: 0.98
+Std reward: 0.58
+------
+
+MCTS_10   just_wait
+Mean reward: 0.67 +- 0.69
+Median reward: 0.96
+Min reward: -0.99
+Max reward: 0.97
+Std reward: 0.69
+------
+
+MCTS_50   just_wait
+Mean reward: 0.76 +- 0.58
+Median reward: 0.96
+Min reward: -0.99
+Max reward: 0.97
+Std reward: 0.58
+------
+
+DeterminizedAStar   just_wait
+Mean reward: 0.77 +- 0.57
+Median reward: 0.97
+Min reward: -0.95
+Max reward: 0.98
+Std reward: 0.57
+------
+
+Rollout_0   the_circle
+Mean reward: 0.93 +- 0.04
+Median reward: 0.93
+Min reward: 0.80
+Max reward: 0.98
+Std reward: 0.04
+------
+
+Rollout_40   the_circle
+Mean reward: 0.98 +- 0.01
+Median reward: 0.98
+Min reward: 0.96
+Max reward: 0.99
+Std reward: 0.01
+------
+
+MCTS_10   the_circle
+Mean reward: 0.98 +- 0.00
+Median reward: 0.99
+Min reward: 0.97
+Max reward: 0.99
+Std reward: 0.00
+------
+
+MCTS_50   the_circle
+Mean reward: 0.99 +- 0.00
+Median reward: 0.99
+Min reward: 0.98
+Max reward: 0.99
+Std reward: 0.00
+------
+
+DeterminizedAStar   the_circle
+Mean reward: 0.99 +- 0.00
+Median reward: 0.99
+Min reward: 0.99
+Max reward: 0.99
+Std reward: 0.00
+------
+
+Rollout_0   the_choice
+Mean reward: -0.31 +- 0.94
+Median reward: -0.99
+Min reward: -1.00
+Max reward: 0.99
+Std reward: 0.94
+------
+
+Rollout_40   the_choice
+Mean reward: 0.10 +- 0.99
+Median reward: 0.99
+Min reward: -1.00
+Max reward: 0.99
+Std reward: 0.99
+------
+
+MCTS_10   the_choice
+Mean reward: -0.11 +- 0.98
+Median reward: -0.99
+Min reward: -1.00
+Max reward: 0.99
+Std reward: 0.98
+------
+
+MCTS_50   the_choice
+Mean reward: 0.39 +- 0.90
+Median reward: 0.97
+Min reward: -1.00
+Max reward: 0.99
+Std reward: 0.90
+------
+
+DeterminizedAStar   the_choice
+Mean reward: 0.64 +- 0.69
+Median reward: 0.93
+Min reward: -1.00
+Max reward: 0.99
+Std reward: 0.69
+------
+
